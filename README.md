@@ -1,0 +1,3 @@
+# Snake
+
+JavaScript game - Snake
