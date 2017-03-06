@@ -1,4 +1,4 @@
 # Snake
 
-JavaScript game: Snake - [click here](https://snake-js-game.herokuapp.com/) to play it online!
+JavaScript game: Snake - [click here](http://arnisritins.github.io/Snake/) to play it online!
 
